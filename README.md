@@ -1,6 +1,6 @@
 # Scientific Programming in Python – Submission 3
 
-### Project title: Real-time GPS Satellite Tracking
+### Project title: Real-Time GPS Satellite Tracking
 
 ### Student name: Davlesh Jodhun
 ### Course: MSc Machine Learning in Science
