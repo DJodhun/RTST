@@ -109,4 +109,10 @@ Defining Satellite as a class will be the basis of creating all the satellites f
 ## Further Improvements
   - Due to time constraints, the final plot - the Polar plot only shows the path of the first GPS satellite when looking outwards. 
   - If I had the time and expertise, I would use a for loop to plot all the possible versions of the plot, separately (this is fleshed out in the report). Additionally, wrapping the Earth mesh in a map was not completed, due to the same constraints, and issues with the PIL library. 
-  - I will probably tweak parts of this project in my spare time (if I get any) next semester. 
+  - I will probably tweak parts of this project in my spare time (if I get any) next semester.
+
+## Running Using Streamlit
+Use the following line of code in the terminal to run the streamlit app:
+```
+streamlit run PHYS4038_Satellite_Tracking_in_Python_with_Streamlit.py
+```
