@@ -2,10 +2,6 @@
 
 ### Project title: Real-Time GPS Satellite Tracking
 
-### Student name: Davlesh Jodhun
-### Course: MSc Machine Learning in Science
-### University: University of Nottingham
-
 ## Background
 There are 31 Global Positioning System satellites in Medium Earth Orbit (about 20,200km above Earth). Being in a precise location at a given time is of crucial importance to their use in navigation. In total, there are about 5,500 satellites in orbit, with a projceted number of 58,000 by 2030. The problem of satellite tracking is not novel, since the various governments have had to track them since their inception. Likewise, the problem of coding it within Python is not new either, having been done before. Skyfield is a package that can be used to faciliate the project. See https://github.com/xtai/Real-Time-Satellite-Tracking/blob/master/3d-refactor-2.py for an example done without Skyfield. 
 
